@@ -79,7 +79,7 @@ var Modal = function (_React$Component) {
           _wrappers.Container,
           { style: { display: display } },
           _react2.default.createElement(_wrappers.Container.BG, {
-            onClick: this.hideModal
+            // onClick: this.hideModal
           }),
           _react2.default.createElement(
             _wrappers.Container.Modal,
